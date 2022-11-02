@@ -1,0 +1,5 @@
+.htaccess
+.htpasswd
+vars_override.php
+phones.conf
+backups/
